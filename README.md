@@ -13,9 +13,9 @@
 
 ## About
 
-The Abundance Declaration argues that humanity has solved scarcity but not distribution. We have the resources, technology, and knowledge to provide abundance for all; yet artificial scarcity persists through institutional design.
+The Abundance Declaration is a vision for reimagining human flourishing through the advancement of new economic and political foundations in this age of increasing abundance. 
 
-This document presents a framework for transitioning from scarcity-based to abundance-based systems.
+The core argument: humanity has solved scarcity but not distribution. We have the resources, technology, and knowledge to provide abundance for all; yet artificial scarcity persists through institutional design.
 
 ---
 
