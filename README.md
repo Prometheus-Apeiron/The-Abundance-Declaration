@@ -1,6 +1,7 @@
 # The Abundance Declaration
 
 **A working paper on artificial scarcity and coordination alternatives**
+
 The Abundance Declaration is a vision for reimagining human flourishing through the advancement of new economic and political foundations in this age of increasing abundance.
 
 📄 Published on SSRN: https://ssrn.com/abstract=6145426
