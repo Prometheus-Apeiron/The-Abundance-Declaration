@@ -1,46 +1,94 @@
 # The Abundance Declaration
-#### **Author:** Prometheus
-#### **Published:** December 31, 2025
+
+**A working paper on artificial scarcity and coordination alternatives**
+The Abundance Declaration is a vision for reimagining human flourishing through the advancement of new economic and political foundations in this age of increasing abundance.
+
+📄 Published on SSRN: https://ssrn.com/abstract=6145426
 
 ---
 
-## Download
+> Gene therapy that costs $65K to manufacture sells for $850K.
+> Insulin markups of 30-100x dropped 70-78% under federal pressure —
+> companies confirmed they remained profitable.
+> 10.6 million non-seasonal vacant U.S. homes. 771,000 homeless people.
+> Solar costs down ~90% since 2010. 700 million people still hungry.
+>
+> When the gap between what we can produce and what people can access
+> reaches this scale, something other than resource scarcity is at work.
 
-- [Complete Package (ZIP)](abundance-declaration-complete.zip)
-- [The Abundance Declaration (PDF)](THE_ABUNDANCE_DECLARATION.pdf)
+## The Thesis
 
----
+Humanity's primary constraint on flourishing has shifted from production
+capacity to coordination capability. We produce enough food for 10
+billion people while 700 million go hungry. We generate knowledge at
+near-zero marginal cost while paywalls block doctors from accessing
+research that could save patients. We have 14 vacant homes for every
+homeless person in America.
 
-## About
+These are the predictable outputs of
+institutions designed to ration genuinely scarce resources — now applied
+to conditions capable of abundance. This paper calls this pattern
+"artificial scarcity" and proposes five design principles for
+abundance-oriented institutions: Universal Capabilities, Commons
+Infrastructure, Polycentric Governance, Technology as Partner, and
+Markets as Tools.
 
-The Abundance Declaration is a vision for reimagining human flourishing through the advancement of new economic and political foundations in this age of increasing abundance. 
+The framework draws on Ostrom's commons governance, Sen and Nussbaum's
+capabilities approach, Polanyi's embedded markets, and Wright's Law
+applied to energy cost curves. It grapples directly with free-rider
+problems, transition difficulties, and the political economy of
+entrenched resistance.
 
-The core argument: humanity has solved scarcity but not distribution. We have the resources, technology, and knowledge to provide abundance for all; yet artificial scarcity persists through institutional design.
+## Read the Declaration
 
----
+📄 **[SSRN Working Paper](https://ssrn.com/abstract=6145426)** — academic repository
 
-## Verification
+📖 **[Read online](DECLARATION.md)** — full text rendered on GitHub
 
-This document is cryptographically signed to prove authenticity.
+📥 [Download PDF](THE_ABUNDANCE_DECLARATION.pdf) — cryptographically authenticated version
 
-**PGP Key Fingerprint:** [F66452213D36CB92B88BF9BB8656F983AF71BDA1]
+📰 [Substack](https://open.substack.com/pub/prometheusapeiron/p/the-abundance-declaration?utm_campaign=post-expanded-share&utm_medium=post%20viewer) — updates and follow-up essays
 
-**SHA-256 Hash:** [85500f219d0a8557aa7b94347e7aaf8f2aa217dde887464b1551b7568e7a8f04]
+**Short on time?** Start with Sections I: "The Miracles We Built" and V: "Hard Truths." 
+Section I dives into an overview of the current abundance infrastructure. 
+Section V addresses the transition problem and free-rider question head-on, and it's where
+the paper is most honest about its own limitations.
 
-See [VERIFICATION.md](VERIFICATION.md) for complete verification instructions.
+## Table of Contents
 
----
+| Section | Topic | Key Question |
+|---------|-------|-------------|
+| I | The Miracles We Built | What abundance already exists? |
+| II | Why Our Systems Fail Us | Why do scarcity institutions persist? |
+| III | Five Principles of Abundance | What are the design primitives? |
+| IV | A Vision of Possibility | What would this look like in practice? |
+| V | Hard Truths | How do we handle transition and free-riding? |
+| VI | Answering the Skeptics | Isn't this just communism/naive/utopian? |
+| VII | Global Justice | What about the Global South? |
+| VIII | Pillars for Transition | What guides the shift? |
+| IX | What You Can Do | Concrete entry points by role |
+| X | The Declaration | The formal statement |
+| App. A | Further Reading & Evidence | Sources and intellectual foundations |
+| App. B | Case Study: U.S. Path | American policy framework |
 
-## Security Notice
+## Engage & Contribute
 
-The Abundance Declaration is intended to be built upon by citizens who take up the mantle of Prometheus.
+This is a living framework released under CC0. Challenge it, improve
+it, expand on it.
 
-All future communications from Prometheus will be signed with the above PGP key.
+- **[Discussions](link)** — Debate specific sections
+- **[Issues](link)** — Flag errors, weak arguments, missing evidence
+- **[Pull Requests](link)** — Propose improvements directly
+- prometheus [dot] apeiron [at] protonmail [dot] com
 
-Unsigned communications are reflective of the Prometheus community, not the original author.
+## About the Author
 
----
+Written under the pseudonym Prometheus because ideas should be evaluated
+on merit, not credentials. Cryptographic verification ensures
+authenticity of future communications.
+See [VERIFICATION.md](VERIFICATION.md) for details.
 
 ## License
 
-This work is released into the public domain. Share freely.
+CC0 — Public Domain. Copy it, fork it, translate it, build on it.
+No permission needed. The ideas matter more than attribution.
