@@ -38,18 +38,99 @@ History will remember what we chose.
   - [The Path Forward: From Diagnosis to Design](#the-path-forward-from-diagnosis-to-design)
   - [The Declaration's Essence: Five Principles](#the-declarations-essence-five-principles)
 - [I. The Miracles We Built](#i-the-miracles-we-built)
+  - [Energy](#energy)
+  - [Food](#food)
+  - [Medicine](#medicine)
+  - [Human Knowledge](#human-knowledge)
+  - [The Architecture of Artificial Scarcity](#the-architecture-of-artificial-scarcity)
 - [II. Why Our Systems Fail Us](#ii-why-our-systems-fail-us)
+  - [The World Our Systems Were Built For](#the-world-our-systems-were-built-for)
+  - [Where Markets Fail](#where-markets-fail)
+  - [Distinguishing Three Forms of Scarcity](#distinguishing-three-forms-of-scarcity)
+  - [The Four Shifts Reshaping Possibility](#the-four-shifts-reshaping-possibility)
+    - [The First Shift: Energy Abundance](#the-first-shift-energy-abundance)
+    - [The Second Shift: Information Abundance](#the-second-shift-information-abundance)
+    - [The Third Shift: Coordination Abundance](#the-third-shift-coordination-abundance)
+    - [The Emerging Fourth Shift: Intelligence Abundance](#the-emerging-fourth-shift-intelligence-abundance)
+  - [Beyond Antiquated Ideologies](#beyond-antiquated-ideologies)
 - [III. The Design: Five Principles of Abundance](#iii-the-design-five-principles-of-abundance)
+  - [I. Universal Capabilities & Dignity](#i-universal-capabilities--dignity)
+  - [II. Commons Infrastructure](#ii-commons-infrastructure)
+  - [III. Distributed Power & Polycentric Governance](#iii-distributed-power--polycentric-governance)
+  - [IV. Technology as a Partner](#iv-technology-as-a-partner)
+  - [V. Markets as Tools, Not Masters](#v-markets-as-tools-not-masters)
 - [IV. A Vision of Possibility: The Shape of Liberation](#iv-a-vision-of-possibility-the-shape-of-liberation)
+  - [The Foundation: Guaranteed Capabilities](#the-foundation-guaranteed-capabilities)
+  - [From Jobs to Purpose](#from-jobs-to-purpose)
+  - [Decoupling Survival from Employment](#decoupling-survival-from-employment)
+  - [Economy: Contribution, Recognition, Choice](#economy-contribution-recognition-choice)
+  - [Governance: Distributed Experimentation](#governance-distributed-experimentation)
 - [V. Hard Truths: The Transition Problem & The Free-Rider Problem](#v-hard-truths-the-transition-problem--the-free-rider-problem)
+  - [Power, Resistance, and the Path Through](#power-resistance-and-the-path-through)
+    - [The Extraction Coalition](#the-extraction-coalition)
+    - [The Mechanisms of Capture](#the-mechanisms-of-capture)
+    - [Breaking the Chains](#breaking-the-chains)
+    - [Historical Lessons](#historical-lessons)
+    - [A Realistic Strategy](#a-realistic-strategy)
+  - [Why Free-Riding Is a Real Concern](#why-free-riding-is-a-real-concern)
+    - [Incentives Without Coercion](#incentives-without-coercion)
+    - [How Abundance Systems Address Free-Riding](#how-abundance-systems-address-free-riding)
 - [VI. Answering the Skeptics](#vi-answering-the-skeptics)
+  - ["This is naive. Corporations will never voluntarily open-source."](#this-is-naive-corporations-will-never-voluntarily-open-source)
+  - ["Human nature is selfish. People won't contribute without profit motive."](#human-nature-is-selfish-people-wont-contribute-without-profit-motive)
+  - ["This is just communism."](#this-is-just-communism)
+  - ["AI partnership sounds good until AI becomes smarter than us and takes over."](#ai-partnership-sounds-good-until-ai-becomes-smarter-than-us-and-takes-over)
+  - ["You're ignoring limits to growth and ecological reality."](#youre-ignoring-limits-to-growth-and-ecological-reality)
+  - ["This sounds utopian and impractical."](#this-sounds-utopian-and-impractical)
 - [VII. Global Justice: Abundance for All, Not Just the Fortunate](#vii-global-justice-abundance-for-all-not-just-the-fortunate)
+  - [For Most of Humanity, Abundance Means Finally Reaching Sufficiency](#for-most-of-humanity-abundance-means-finally-reaching-sufficiency)
+  - [Repair, Not Rescue: Colonial and Extractive Legacies](#repair-not-rescue-colonial-and-extractive-legacies)
+  - [South–South Cooperation and Local Innovation](#southsouth-cooperation-and-local-innovation)
+  - [The Limitation of This Declaration](#the-limitation-of-this-declaration)
 - [VIII. Pillars for the Transition](#viii-pillars-for-the-transition)
+  - [1. Knowledge Liberation](#1-knowledge-liberation)
+  - [2. Partnership Over Domination](#2-partnership-over-domination)
+  - [3. Abundance Within Limits](#3-abundance-within-limits)
+  - [4. Graceful Transition](#4-graceful-transition)
+  - [5. Start Where You Are](#5-start-where-you-are)
 - [IX. What You Can Do & Why Now](#ix-what-you-can-do--why-now)
+  - [What You Can Do](#what-you-can-do)
+    - [For Technologists and Researchers](#for-technologists-and-researchers)
+    - [For Organizers and Community Builders](#for-organizers-and-community-builders)
+    - [For Policy Thinkers and Government](#for-policy-thinkers-and-government)
+    - [For Everyone](#for-everyone)
+  - [Why Now](#why-now)
 - [X. The Abundance Declaration](#x-the-abundance-declaration)
+  - [The Choice Before Us](#the-choice-before-us)
+  - [The Declaration](#the-declaration)
+  - [The Invitation](#the-invitation)
 - [Appendix A: Further Reading & Evidence](#appendix-a-further-reading--evidence)
+  - [On Energy Transition](#on-energy-transition)
+  - [On Information Commons & Knowledge Sharing](#on-information-commons--knowledge-sharing)
+  - [On Post-Scarcity Economics](#on-post-scarcity-economics)
+  - [On Cooperative Economics & Commons Governance](#on-cooperative-economics--commons-governance)
+  - [On Ecological Economics & Planetary Boundaries](#on-ecological-economics--planetary-boundaries)
+  - [On AI Partnership & Governance](#on-ai-partnership--governance)
+  - [On Human Nature & Cooperation](#on-human-nature--cooperation)
+  - [On Global Justice & Development](#on-global-justice--development)
+  - [On Institutions & Democracy](#on-institutions--democracy)
+  - [On Universal Basic Services & Social Provision](#on-universal-basic-services--social-provision)
 - [Appendix B: Case Study — An American Path to Abundance](#appendix-b-case-study--an-american-path-to-abundance)
+  - [Why the U.S. Should Lead](#why-the-us-should-lead)
+  - [Democratic Advantage](#democratic-advantage)
+  - [The American Story](#the-american-story)
+  - [Five Pillars for a U.S. Policy Framework](#five-pillars-for-a-us-policy-framework)
+    - [1. National AI Research Commons](#1-national-ai-research-commons)
+    - [2. Sovereign Public Compute](#2-sovereign-public-compute)
+    - [3. AI Safety and Accountability Framework](#3-ai-safety-and-accountability-framework)
+    - [4. Systemically Important AI Institutions](#4-systemically-important-ai-institutions)
+    - [5. International AI Safety Standards](#5-international-ai-safety-standards)
+  - [Additional Policy Tools](#additional-policy-tools)
+    - [Framing for Political Viability](#framing-for-political-viability)
+  - [First Next Steps for Those in Position to Act](#first-next-steps-for-those-in-position-to-act)
 - [Contact & Contribution](#contact--contribution)
+- [References](#references)
+
 
 ---
 
@@ -1185,6 +1266,24 @@ I believe we will.
 This appendix provides entry points into the intellectual foundations underlying The Abundance Declaration. These works span economics, ecology, technology, governance, and human nature reflecting the Declaration's conviction that abundance requires integrating insights across disciplines rather than optimizing within any single framework.
 
 ### On Energy Transition
+- 70M homes divided by 52 weeks in a year means solar PV and onshore wind combined currently produce enough electricity to power roughly 1.3M average U.S. homes in one week.
+- **Tony Seba**, *Clean Disruption of Energy and Transportation* – on how exponential tech improvements are upending energy and transport systems.
+
+### On Food Systems
+- UN FAO data showing current agriculture produces ~1.5× the calories needed for everyone (yet 735 million people went hungry in 2023).
+- Research on vertical farming yields (indoor farms can achieve 10–20× higher yields for some crops with 70–95% less water).
+- Studies on precision fermentation and cellular agriculture for alternative proteins (meat and dairy without livestock).
+
+### On Healthcare
+- Case studies on gene therapy pricing vs. costs – e.g. Luxturna ($425k per eye) have manufacturing costs estimated under 10% of their price. 
+    - Luxturna (voretigene neparvovec) is priced at $425,000 per eye, or $850,000 for a bilateral, one-time treatment in the United States. Spark Therapeutics’ 2019 10-Q reported cost of product sales of about 7.6% of Luxturna revenue, implying roughly $65,000 in manufacturing/royalty/shipping costs and a ~92% gross margin on an $850,000 course. This suggests a unit price on the order of 10–15× the narrow manufacturing cost per patient, before accounting for fixed R&D and platform costs. By contrast, ICER’s cost-effectiveness modeling estimated that Luxturna would need an approximate 75–82% price reduction to meet standard $100–150k/QALY thresholds, corresponding to a “value-based” price of about $153,000–$217,000 per patient, so the $850,000 list price is roughly 4–5.5× higher than those benchmarks.
+- mRNA vaccine development timelines (Moderna and BioNTech designed COVID-19 vaccines within days of the genome release in 2020).
+- WHO reports on access to medicines and how generic drug manufacturing could meet global needs if not for IP and pricing barriers.
+- Human Rights Watch found that off 116 low/middle-income countries in World Bank data, 48 had per capita external debt service greater than public healthcare spending (e.g., Mongolia: $631/person debt vs. $158 health).
+
+For those interested in exploring these ideas further:
+
+### On Energy Abundance & Technological Transition
 
 - **Tony Seba & RethinkX**, *Rethinking Energy, Rethinking Humanity* — data-driven analysis of solar, battery, and EV disruption curves demonstrating how exponential adoption patterns consistently outpace linear forecasts.
 - **Ramez Naam**, essays and analyses on solar learning curves — rigorous examination of why energy cost projections have systematically underestimated solar's decline.
@@ -1212,7 +1311,7 @@ This appendix provides entry points into the intellectual foundations underlying
 - Case studies of the **Mondragon Corporation** (cooperative network in Spain with 80,000+ employees).
 - **Trebor Scholz**, *Platform Cooperativism* — framework for cooperative ownership of digital platforms.
 - **Gar Alperovitz**, *What Then Must We Do?* — practical strategies for building cooperative enterprises within existing systems.
-- Research on **complementary currencies** — time banks, mutual credit systems, and mutual aid societies.
+- Research on **complementary currencies** — studies on time banks (**Edgar Cahn’s** *No More Throw-Away People*), mutual credit systems (**Thomas Greco’s** *The End of Money and the Future of Civilization*), and mutual aid societies demonstrate alternatives and complements to traditional money economies.
 
 ### On Ecological Economics & Planetary Boundaries
 
@@ -1245,6 +1344,8 @@ This appendix provides entry points into the intellectual foundations underlying
 ### On Institutions & Democracy
 
 - **Daron Acemoglu & James A. Robinson**, *Why Nations Fail* and *The Narrow Corridor* — analysis of how inclusive versus extractive institutions determine national prosperity.
+- **Francis Fukuyama**, *Political Order and Political Decay* – on how institutions develop and sometimes fail.
+- **Yascha Mounk**, *The People vs. Democracy* – on threats to liberal democracy and potential solutions.
 - **Yanis Varoufakis**, *Technofeudalism* — on how Big Tech platforms have supplanted traditional capitalism with a feudal-like system.
 - **Mariana Mazzucato**, *The Entrepreneurial State* — documents how public investment drove major innovations from the internet to mRNA vaccines.
 
@@ -1253,6 +1354,8 @@ This appendix provides entry points into the intellectual foundations underlying
 - **Anna Coote & Andrew Percy**, *The Case for Universal Basic Services* — the definitive policy framework for UBS.
 - **Guy Standing**, *Basic Income: And How We Can Make It Happen* — the case for UBI, included for completeness.
 - Research on **"Decent Living Standards"** — academic work by Narasimha Rao, Jihoon Min, and others quantifying the material requirements for wellbeing across countries.
+
+This list is intentionally comprehensive for deeper exploration and verification.
 
 ---
 
@@ -1273,8 +1376,6 @@ Artificial Intelligence technology is advancing at a pace equal parts awe-inspir
 3. **Catastrophic failure:** Misaligned AI ends civilization
 
 But, there's a fourth option: **Democratic abundance.** For a world this Declaration has described, it requires America act now with a sense of urgency never before witnessed.
-
-America faces a choice: lead the transition to abundance, or watch it happen elsewhere while dealing with the consequences. The country that defines ethical AI development, that proves universal basic capabilities are economically viable, that shows how to decouple prosperity from extraction — that country will set the norms for the next century.
 
 America faces a choice: lead the transition to abundance, or watch it happen elsewhere while dealing with the consequences. The country that defines ethical AI development, that proves universal basic capabilities are economically viable, that shows how to decouple prosperity from extraction — that country will set the norms for the next century.
 
