@@ -77,9 +77,9 @@ the paper is most honest about its own limitations.
 This is a living framework released under CC0. Challenge it, improve
 it, expand on it.
 
-- **[Discussions]([https://github.com/Prometheus-Apeiron/The-Abundance-Declaration/discussions])** — Debate specific sections
-- **[Issues]([https://github.com/Prometheus-Apeiron/The-Abundance-Declaration/issues])** — Flag errors, weak arguments, missing evidence
-- **[Pull Requests]([https://github.com/Prometheus-Apeiron/The-Abundance-Declaration/pulls])** — Propose improvements directly
+- **[Discussions](https://github.com/Prometheus-Apeiron/The-Abundance-Declaration/discussions)** — Debate specific sections
+- **[Issues](https://github.com/Prometheus-Apeiron/The-Abundance-Declaration/issues)** — Flag errors, weak arguments, missing evidence
+- **[Pull Requests](https://github.com/Prometheus-Apeiron/The-Abundance-Declaration/pulls)** — Propose improvements directly
 - prometheus [dot] apeiron [at] protonmail [dot] com
 
 ## About the Author
